@@ -35,6 +35,7 @@ public class DataTypesArithmeticOperations {
         else if (k =='0') {
                 System.out.println(m);
             }
+        String n ="Homework Done";
             }
         }
 
